@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a BCA student with a strong interest in Artificial Intelligence and technology.<br><br>👨‍💻 BCA Student | AI Enthusiast | Aspiring AI Engineer<br>🤖 Passionate about Artificial Intelligence, Generative AI, and emerging technologies.<br>💻 Currently learning Python, Java, and strengthening programming fundamentals.<br>📚 Exploring AI tools and real-world problem solving.<br>🚀 Focused on improving coding skills by learning and building projects.<br>🔍 Interested in technology, innovation, and continuous learning.<br>🎯 Goal: To become a skilled AI Engineer and contribute to impactful AI solutions.<br><br>"Learning today, building for tomorrow."
+👋 Hi, I'm a BCA student with a strong interest in Artificial Intelligence and technology.<br><br>👨‍💻 BCA Student | AI Enthusiast | Aspiring AI Engineer<br>🤖 Passionate about Artificial Intelligence, Generative AI, and emerging technologies.<br>💻 Currently learning Data science, Java, and strengthening programming fundamentals.<br>📚 Exploring AI tools and real-world problem solving.<br>🚀 Focused on improving coding skills by learning and building projects.<br>🔍 Interested in technology, innovation, and continuous learning.<br>🎯 Goal: To become a skilled AI Engineer and contribute to impactful AI solutions.<br><br>"Learning today, building for tomorrow."
 
 
 ## 🌐 Socials:
